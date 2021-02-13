@@ -1,3 +1,5 @@
+# This project use removed version of SDIP 😢
+
 # SDIP kzkgop/ZTM to REST api v2
 
 SDIP KZKGOP/ZTM is tracking system for delays in city buses in Silesia (Without any public API).
